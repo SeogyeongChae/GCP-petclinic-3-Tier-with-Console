@@ -62,3 +62,4 @@
 ## 3. Tests and Results
 ### 3.1 Web Page access and DB Check
 ![image](https://user-images.githubusercontent.com/110655818/217458946-bb745c07-e253-4e92-9494-08ce667f62c9.png)
+[https://docs.google.com/file/d/1cVF4VDimuIINZPNcgVsBknFuUFzsdOrI/preview]
