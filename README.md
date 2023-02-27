@@ -65,3 +65,7 @@
 
 ### 3.2 Jmeter, Monitoring
 (Video) https://docs.google.com/file/d/1cVF4VDimuIINZPNcgVsBknFuUFzsdOrI/preview
+
+----
+## 4. Reference
+https://judy-nick.notion.site/GCP-petclinic-3-Tier-with-Console-fc308b837ea54e9eae15eead79a4e35d
